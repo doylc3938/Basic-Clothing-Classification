@@ -1,1 +1,1 @@
-# Basic-Clothing-Classification in the browser
+# Basic Clothing Classification in the browser
